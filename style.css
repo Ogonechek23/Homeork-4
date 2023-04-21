@@ -1,0 +1,20 @@
+h1 {
+    opacity: 0.5;
+    font-size: 40px;
+}
+
+#li1 {
+    color: red;
+    font-size: 30px;
+    font-style: italic;
+}
+
+#li2 {
+    color: gold;
+    font-size: 20px;
+}
+
+#li3 {
+    color: darkorange;
+    font-size: 15px;
+}
